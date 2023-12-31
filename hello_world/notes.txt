@@ -1,0 +1,7 @@
+TOOLS: Visual Studio,flipperzero-ufbt
+
+Get SDK - ufbt update --channel=release
+Flash firmware - ufbt flash_usb
+Create app skeleton - ufbt create APPID=hello_world
+VSCode integration - ufbt vscode_dist
+Build - ufbt
